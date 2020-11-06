@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/tradeSettle.iml" filepath="$PROJECT_DIR$/.idea/tradeSettle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/tradeSettle-common.iml" filepath="$PROJECT_DIR$/common/tradeSettle-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/tradeSettle-domain.iml" filepath="$PROJECT_DIR$/domain/tradeSettle-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/tradeSettle-interfaces.iml" filepath="$PROJECT_DIR$/interfaces/tradeSettle-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repository/tradeSettle-repository.iml" filepath="$PROJECT_DIR$/repository/tradeSettle-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restapi/tradeSettle-restapi.iml" filepath="$PROJECT_DIR$/restapi/tradeSettle-restapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/tradeSettle-service.iml" filepath="$PROJECT_DIR$/service/tradeSettle-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starter/tradeSettle-starter.iml" filepath="$PROJECT_DIR$/starter/tradeSettle-starter.iml" />
+    </modules>
+  </component>
+</project>

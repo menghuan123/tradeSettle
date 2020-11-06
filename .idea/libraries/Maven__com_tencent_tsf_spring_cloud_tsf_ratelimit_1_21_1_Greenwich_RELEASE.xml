@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.tencent.tsf:spring-cloud-tsf-ratelimit:1.21.1-Greenwich-RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/project/myproject/com/tencent/tsf/spring-cloud-tsf-ratelimit/1.21.1-Greenwich-RELEASE/spring-cloud-tsf-ratelimit-1.21.1-Greenwich-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/project/myproject/com/tencent/tsf/spring-cloud-tsf-ratelimit/1.21.1-Greenwich-RELEASE/spring-cloud-tsf-ratelimit-1.21.1-Greenwich-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/project/myproject/com/tencent/tsf/spring-cloud-tsf-ratelimit/1.21.1-Greenwich-RELEASE/spring-cloud-tsf-ratelimit-1.21.1-Greenwich-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

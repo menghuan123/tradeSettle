@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tradeSettle-domain" />
+        <module name="tradeSettle-service" />
+        <module name="tradeSettle-repository" />
+        <module name="tradeSettle-common" />
+        <module name="tradeSettle-restapi" />
+        <module name="tradeSettle-interfaces" />
+        <module name="tradeSettle-starter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tradeSettle" target="1.8" />
+      <module name="tradeSettle-common" target="1.8" />
+      <module name="tradeSettle-domain" target="1.8" />
+      <module name="tradeSettle-interfaces" target="1.8" />
+      <module name="tradeSettle-repository" target="1.8" />
+      <module name="tradeSettle-restapi" target="1.8" />
+      <module name="tradeSettle-service" target="1.8" />
+      <module name="tradeSettle-starter" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tradeSettle-common" options="-parameters" />
+      <module name="tradeSettle-domain" options="-parameters" />
+      <module name="tradeSettle-interfaces" options="-parameters" />
+      <module name="tradeSettle-repository" options="-parameters" />
+      <module name="tradeSettle-restapi" options="-parameters" />
+      <module name="tradeSettle-service" options="-parameters" />
+      <module name="tradeSettle-starter" options="-parameters" />
+    </option>
+  </component>
+</project>

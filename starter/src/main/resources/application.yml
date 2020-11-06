@@ -1,0 +1,16 @@
+## 通过接口将服务干掉，不开启
+#management:
+#  endpoint:
+#    shutdown:
+#      enabled: false
+#    health:
+#      # 显示健康检查详情
+#      show-details: always
+#  health:
+#    # 由于多数据源问题，先把db的health check关掉
+#    db:
+#      enabled: false
+#    sentinel:
+#      enabled: false
+
+debug: true

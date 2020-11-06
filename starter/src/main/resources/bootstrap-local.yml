@@ -1,0 +1,16 @@
+spring:
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      enabled: true
+      config:
+        format: yaml
+        ##默认空间
+        prefix: dev
+        ##应用名
+        defaultContext: ${spring.application.name}
+        ##配置文件名
+        data-key: data
+    discovery:
+      register: false
